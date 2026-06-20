@@ -83,6 +83,13 @@ body{
     );
 }
 
+.ornament{
+    color:#FFE8A3;
+    font-size:24px;
+    letter-spacing:14px;
+    margin-bottom:20px;
+}
+
 .subtitle{
     color:#FFE8A3;
     letter-spacing:4px;
